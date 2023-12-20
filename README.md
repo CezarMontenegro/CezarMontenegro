@@ -1,6 +1,6 @@
 # Oi, eu sou o Cezar!
 
-Sou entusiasta de Inteligência Artificial e de como ela vem revolucionando o mundo em que vivemos, atualmente estudo Ciência de Dados.
+Sou entusiasta de tecnologia e como ela vem revolucionando o mundo em que vivemos, atualmente estudo desenvolvimento web.
 
 ## Skill Set:
 
