@@ -1,6 +1,6 @@
 # Oi, eu sou o Cezar!
 
-Sou entusiasta de tecnologia e como ela vem revolucionando o mundo em que vivemos, atualmente estudo desenvolvimento web.
+Sou entusiasta de tecnologia e como ela vem revolucionando o mundo em que vivemos, atualmente estudo desenvolvimento web e flerto com ciência de dados.
 
 ## Skill Set:
 
